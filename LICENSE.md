@@ -14,7 +14,7 @@ following conditions are met:
    be redistributed and used by MozFest Club members.
 3. Redistributions for open source and academic research applications must 
    include information about MozFest Club membership.
-4. All modifications of the original source code are owned by MozFest.
+4. All modifications of the original source code are owned by MozFest Club.
 
 Contact MozFest club for more information about available commercial licensing 
 packages.
